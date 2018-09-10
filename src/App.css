@@ -1,0 +1,39 @@
+body {
+  color:white
+}
+.rootDiv {
+  width: 80%;
+  margin-left:10%
+}
+
+.divHeader {
+  text-align: center;
+  padding: 20px;
+  background-image: url('./img/sky.jpg');
+}
+
+
+.flight {
+  padding: 15px;
+  margin: 20px;
+  background-image: url('./img/sky.jpg');
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15px;
+  cursor: pointer;
+}
+.flightDetails {
+  padding: 20px;
+  margin: 20px;
+  background-color: #4F7AA4
+}
+.backDiv {
+  text-align: center;
+  width: 150px;
+  padding: 15px;
+  margin: 20px;
+  background-color: #4F7AA4;
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15px;
+  cursor: pointer;
+
+}
